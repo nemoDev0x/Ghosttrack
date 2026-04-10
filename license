@@ -1,0 +1,70 @@
+MIT License — Restricted Use for Security Research
+
+Copyright (c) 2026 Izán Jiménez Nuñez
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to use,
+copy, modify, merge, publish, distribute, and/or sublicense the Software,
+subject to the following conditions:
+
+1. COPYRIGHT NOTICE
+   This copyright notice and this permission notice shall be included in all
+   copies or substantial portions of the Software.
+
+2. AUTHORIZED USE ONLY
+   This Software is intended exclusively for:
+   a) Academic research and educational purposes.
+   b) Authorized penetration testing and security assessments where the user
+      has obtained explicit, prior, written permission from the system owner.
+   c) Testing on systems owned by the user.
+   d) Controlled laboratory environments.
+
+3. PROHIBITED USE
+   The following uses are strictly prohibited:
+   a) Scanning, probing, or attacking systems without explicit written
+      authorization from the system owner.
+   b) Any activity that violates local, national, or international law,
+      including but not limited to the Spanish Penal Code (art. 197 bis),
+      the Computer Fraud and Abuse Act (CFAA), and the EU Directive
+      2013/40/EU on attacks against information systems.
+   c) Any malicious, harmful, or destructive activity.
+   d) Distribution of the Software with the intent to facilitate illegal activity.
+
+4. DISCLAIMER OF WARRANTY
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT.
+
+5. LIMITATION OF LIABILITY
+   IN NO EVENT SHALL THE AUTHOR OR COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM,
+   DAMAGES, OR OTHER LIABILITY — WHETHER IN AN ACTION OF CONTRACT, TORT, OR
+   OTHERWISE — ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR
+   THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+   THE AUTHOR EXPLICITLY DISCLAIMS ANY RESPONSIBILITY FOR MISUSE OF THIS
+   SOFTWARE. ANY PERSON WHO USES THIS SOFTWARE FOR UNAUTHORIZED OR ILLEGAL
+   PURPOSES DOES SO ENTIRELY AT THEIR OWN RISK AND BEARS FULL LEGAL
+   RESPONSIBILITY FOR THEIR ACTIONS.
+
+6. USER RESPONSIBILITY
+   By using, copying, modifying, or distributing this Software, you agree that:
+   a) You have read and understood this license in its entirety.
+   b) You accept full legal and ethical responsibility for your use of the Software.
+   c) You will not hold the author liable for any consequences arising from
+      your use of the Software.
+   d) You will comply with all applicable laws and regulations in your jurisdiction.
+
+7. ACADEMIC CONTEXT
+   This Software was developed as a Final Degree Project (Trabajo de Fin de Grado)
+   at an accredited academic institution. Its purpose is to demonstrate knowledge
+   of offensive security techniques in a controlled, ethical, and legal manner.
+   It is not intended as a ready-to-deploy attack tool.
+
+8. TERMINATION
+   Any breach of the terms of this license automatically terminates your rights
+   to use, copy, modify, or distribute the Software.
+
+---
+
+For authorized security research inquiries, contact the author through the
+repository's official channels.
