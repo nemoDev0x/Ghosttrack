@@ -1,0 +1,44 @@
+# ═══════════════════════════════════════════════════════════════════
+# ARCHIVO: requirements.txt
+# ═══════════════════════════════════════════════════════════════════
+
+# Core Dependencies
+requests==2.31.0
+beautifulsoup4==4.12.2
+lxml==4.9.3
+
+# Networking & DNS
+dnspython==2.4.2
+scapy==2.5.0
+
+# Security & Cryptography
+cryptography==41.0.5
+pyOpenSSL==23.3.0
+
+# Image Processing & Metadata
+Pillow==10.1.0
+PyPDF2==3.0.1
+
+# Database & Storage
+sqlalchemy==2.0.23
+
+# Reporting
+Jinja2==3.1.2
+markdown==3.5.1
+
+# CLI & Colors
+colorama==0.4.6
+tqdm==4.66.1
+
+# Utilities
+python-dotenv==1.0.0
+click==8.1.7
+
+# Optional - Red Team (instalar si es necesario)
+# impacket==0.11.0
+# ldap3==2.9.1
+# pycryptodome==3.19.0
+
+# Testing
+pytest==7.4.3
+pytest-cov==4.1.0
