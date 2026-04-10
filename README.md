@@ -1,4 +1,4 @@
-# 👻 GhostTrack
+#  GhostTrack
 
 ### Advanced Pentesting & Red Team Framework
 
