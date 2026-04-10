@@ -1,5 +1,5 @@
 # ═══════════════════════════════════════════════════════════════════
-# ARCHIVO: requirements.txt
+# ARCHIVE: requirements.txt
 # ═══════════════════════════════════════════════════════════════════
 
 # Core Dependencies
@@ -34,7 +34,7 @@ tqdm==4.66.1
 python-dotenv==1.0.0
 click==8.1.7
 
-# Optional - Red Team (instalar si es necesario)
+# Optional - Red Team 
 # impacket==0.11.0
 # ldap3==2.9.1
 # pycryptodome==3.19.0
