@@ -270,14 +270,14 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 **Izán Jiménez Nuñez**  
 Final Year Project · 2025–2026  
-GitHub: [@your-username](https://github.com/your-username)  
-Email: your.email@university.edu
+GitHub: [@nemoDev0x](https://github.com/nemoDev0x)  
+
 
 ---
 
 ##  Acknowledgements
 
-- My TFG supervisor for their guidance
+- My TFG supervisors for their guidance
 - The open-source cybersecurity community
 - Contributors of all libraries used in this project
 
