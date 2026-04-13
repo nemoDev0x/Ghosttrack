@@ -1,0 +1,81 @@
+
+{
+  "application": {
+    "name": "GhostTrack",
+    "version": "2.0",
+    "author": "Tu Nombre",
+    "description": "Advanced Pentesting & Red Team Framework"
+  },
+  
+  "scanning": {
+    "default_threads": 10,
+    "default_timeout": 5,
+    "max_threads": 100,
+    "max_timeout": 30,
+    "user_agent": "GhostTrack/2.0 Security Scanner"
+  },
+  
+  "ports": {
+    "common": [21, 22, 23, 25, 53, 80, 110, 143, 443, 445, 3306, 3389, 5432, 8080],
+    "web": [80, 443, 8080, 8443, 8888],
+    "database": [3306, 5432, 1521, 27017, 6379],
+    "remote": [22, 23, 3389, 5900]
+  },
+  
+  "wordlists": {
+    "directories": "data/wordlists/directories.txt",
+    "subdomains": "data/wordlists/subdomains.txt",
+    "passwords": "data/wordlists/passwords.txt"
+  },
+  
+  "output": {
+    "reports_dir": "reports",
+    "logs_dir": "logs",
+    "format": ["html", "json", "txt"],
+    "save_raw_data": true
+  },
+  
+  "logging": {
+    "level": "INFO",
+    "format": "%(asctime)s - %(name)s - %(levelname)s - %(message)s",
+    "file_rotation": true,
+    "max_file_size": 10485760,
+    "backup_count": 5
+  },
+  
+  "modules": {
+    "enabled": [
+      "geoip", "whois", "dns_enum", "subdomain_finder", "port_scanner",
+      "service_detection", "os_fingerprint", "banner_grabbing", "ssl_analyzer",
+      "vuln_scanner", "traceroute", "web_crawler", "directory_bruteforce",
+      "sql_injection", "xss_scanner", "arp_scanner", "network_sniffer",
+      "email_harvester", "metadata_extractor", "custom_scripts"
+    ],
+    "disabled": []
+  },
+  
+  "redteam": {
+    "enabled": true,
+    "require_confirmation": true,
+    "modules": [
+      "smb_enum", "ldap_enum", "kerberos", "ntlm_relay", "bloodhound",
+      "privesc", "lateral_movement", "credential_dump", "token_manip",
+      "process_injection", "dll_hijacking", "persistence", "firewall_evasion",
+      "av_evasion", "payload_gen", "c2_comm", "exfiltration", "wifi_attacks",
+      "bluetooth", "social_eng"
+    ]
+  },
+  
+  "api_keys": {
+    "shodan": "",
+    "virustotal": "",
+    "censys": "",
+    "securitytrails": ""
+  },
+  
+  "legal": {
+    "disclaimer_required": true,
+    "log_all_scans": true,
+    "ethical_use_only": true
+  }
+}
