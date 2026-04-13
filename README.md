@@ -296,6 +296,13 @@ GhostTrack is free and open source. If it has been useful to you, consider suppo
 | Ξ Ethereum (ETH) | `0x...tu_dirección` | Crypto — paste your wallet |
 
 > Every contribution — however small — helps maintain and improve GhostTrack. Thank you! 🙏
+
+---
+
+## 🏆 Sponsors
+
+*Become a [Patreon sponsor](https://patreon.com/tu_usuario](https://patreon.com/nemoDev0x?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink)) and your logo appears here.*
+
 ---
 
 <div align="center">
