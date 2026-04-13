@@ -283,6 +283,21 @@ GitHub: [@nemoDev0x](https://github.com/nemoDev0x)
 
 ---
 
+## 💙 Support GhostTrack
+
+GhostTrack is free and open source. If it has been useful to you, consider supporting its development.
+
+| Platform | Link | Notes |
+|----------|------|-------|
+| ☕ Ko-fi | [ko-fi.com/tu_usuario](https://ko-fi.com/tu_usuario) | One-time or monthly donation |
+| 💖 GitHub Sponsors | [github.com/sponsors/nemoDev0x](https://github.com/sponsors/nemoDev0x) | Recurring support via GitHub |
+| ₿ Bitcoin (BTC) | `bc1q...tu_dirección` | Crypto — paste your wallet |
+| Ξ Ethereum (ETH) | `0x...tu_dirección` | Crypto — paste your wallet |
+
+> Every contribution — however small — helps maintain and improve GhostTrack. Thank you! 🙏
+
+---
+
 <div align="center">
 
 **⚠️ Use this tool ethically and responsibly ⚠️**
