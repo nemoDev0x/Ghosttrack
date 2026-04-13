@@ -301,7 +301,7 @@ GhostTrack is free and open source. If it has been useful to you, consider suppo
 
 ## 🏆 Sponsors
 
-*Become a [Patreon sponsor](https://patreon.com/tu_usuario](https://patreon.com/nemoDev0x?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink)) and your logo appears here.*
+*Become a [Patreon sponsor](https://www.patreon.com/cw/nemoDev0x?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink) and your logo appears here.*
 
 ---
 
