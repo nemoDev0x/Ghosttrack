@@ -3,7 +3,7 @@
 Script Personalizado para GhostTrack
 Descripción: Template básico para crear scripts personalizados
 Autor: Tu Nombre
-Fecha: 2024
+Fecha: 2026
 """
 
 import socket
