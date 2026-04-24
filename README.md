@@ -292,8 +292,8 @@ GhostTrack is free and open source. If it has been useful to you, consider suppo
 | ☕ Ko-fi | [ko-fi.com/tu_usuario](https://ko-fi.com/tu_usuario) | One-time or monthly donation |
 | 💖 GitHub Sponsors | [github.com/sponsors/nemoDev0x](https://github.com/sponsors/nemoDev0x) | Recurring support via GitHub |
 | 🎨 Patreon | [patreon.com/nemoDev0x](https://patreon.com/nemoDev0x?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink) | Monthly tiers with perks |
-| ₿ Bitcoin (BTC) | `bc1q...tu_dirección` | Crypto — paste your wallet |
-| Ξ Ethereum (ETH) | `0x...tu_dirección` | Crypto — paste your wallet |
+| ₿ Bitcoin (BTC) | `3321ZvBt3gKhNewEwVCi1qy49SyvNxHyP8` | Crypto |
+| Ξ Ethereum (ETH) | `0x9380B1fF50F6B5d6CE2a7C5c5226635Be190f0a4` | Crypto |
 
 > Every contribution — however small — helps maintain and improve GhostTrack. Thank you! 🙏
 
