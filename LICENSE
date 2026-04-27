@@ -64,6 +64,46 @@ subject to the following conditions:
    Any breach of the terms of this license automatically terminates your rights
    to use, copy, modify, or distribute the Software.
 
+This software ("GhostTrack") is provided strictly for educational purposes, research, and authorized security testing only.
+
+By using, copying, modifying, or distributing this software, you agree to the following terms:
+
+1. Authorized Use Only
+
+You may use this software only on systems and networks for which you have explicit, prior, written authorization from the owner.
+Any use of this software against targets without proper authorization is strictly prohibited and may violate applicable local, national, and international laws.
+
+2. User Responsibility
+
+You are solely responsible for your actions while using this software. This includes:
+
+Ensuring full compliance with all applicable laws and regulations
+Obtaining proper authorization before conducting any security testing
+Any consequences resulting from misuse or illegal activity
+3. No Liability
+
+This software is provided "AS IS", without warranty of any kind, express or implied, including but not limited to warranties of merchantability or fitness for a particular purpose.
+
+In no event shall the author, contributors, or copyright holders be held liable for any claim, damages, losses, or other liabilities, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the software or its use.
+
+4. No Malicious Intent
+
+This project has been developed as part of an academic cybersecurity program and is intended to support defensive security practices, ethical hacking, and learning.
+The author does not condone, encourage, or support any illegal, harmful, or malicious use of this software.
+
+5. Indemnification
+
+By using this software, you agree to indemnify and hold harmless the author and contributors from and against any claims, damages, liabilities, losses, and expenses arising from your use or misuse of the software.
+
+6. Jurisdiction
+
+Users are responsible for understanding and complying with the laws applicable in their own jurisdiction. Use of this software may be restricted or illegal in certain regions.
+
+7. Acceptance of Terms
+
+By using this software, you acknowledge that you have read, understood, and agreed to this disclaimer and all associated risks.
+If you do not agree with these terms, you must not use this software.
+
 ---
 
 For authorized security research inquiries, contact the author through the
