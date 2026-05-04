@@ -11,7 +11,7 @@
 
 **A complete, modular pentesting suite featuring 40+ modules — from passive reconnaissance to advanced Red Team techniques.**
 
-[Features](#-features) • [Modules](#-modules) • [Installation](#-installation) • [Usage](#-usage) • [Reports](#-reports) • [Legal](#%EF%B8%8F-legal-disclaimer)
+[Features](#-Features) • [Modules](#-Modules) • [Installation](#-Installation) • [Usage](#-Usage) • [Reports](#-Reports) • [Legal](#%EF%B8%8F-legal-disclaimer)
 
 </div>
 
