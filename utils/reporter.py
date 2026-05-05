@@ -130,12 +130,12 @@ class Reporter:
 <body>
     <div class="container">
         <header>
-            <h1>👻 GhostTrack Security Report</h1>
+            <h1>GhostTrack Security Report</h1>
             <div class="subtitle">Advanced Pentesting Framework</div>
         </header>
         
         <div class="info-box">
-            <h3>📋 Información del Escaneo</h3>
+            <h3>Información del Escaneo</h3>
             <div class="info-item">
                 <span class="info-label">Target:</span>
                 <span class="info-value">{target}</span>
@@ -155,14 +155,14 @@ class Reporter:
         </div>
         
         <div class="module-section">
-            <h2>🔍 Resultados de Módulos</h2>
+            <h2>Resultados de Módulos</h2>
 """
         
         # Añadir resultados de cada módulo
         for module_name, module_data in modules.items():
             html += f"""
             <div class="finding">
-                <h3>📌 {module_name.replace('_', ' ').title()}</h3>
+                <h3>{module_name.replace('_', ' ').title()}</h3>
                 <pre style="background: #0a0e27; padding: 15px; border-radius: 5px; overflow-x: auto;">
 {json.dumps(module_data, indent=2, default=str)}
                 </pre>
@@ -174,7 +174,7 @@ class Reporter:
         
         <div class="footer">
             <p>Generado por GhostTrack v2.0 | Framework de Pentesting</p>
-            <p>⚠️ Este reporte contiene información sensible - Manéjelo con cuidado</p>
+            <p>Este reporte contiene información sensible - Manéjelo con cuidado</p>
         </div>
     </div>
 </body>
