@@ -23,7 +23,7 @@
 
 
     Advanced Pentesting & Red Team Security Framework
-    Version 2.0 | 40+ Módulos | Educational Purpose Only
+    Version 1.0 | 40+ Módulos | Educational Purpose Only
     
     Desarrollado por: Izan Jimenez Nuñez
     Año: 2026
