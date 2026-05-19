@@ -1,5 +1,5 @@
 # ═══════════════════════════════════════════════════════════════════
-# GhostTrack v2.0 — requirements.txt
+# GhostTrack — requirements.txt
 # Compatible con Python 3.9–3.13 en Kali Linux y Windows
 #
 # INSTALACIÓN RECOMENDADA (Kali Linux):
