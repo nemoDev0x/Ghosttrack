@@ -1,6 +1,6 @@
 #!/bin/bash
 # ═══════════════════════════════════════════════════════════════════
-# GhostTrack v2.0 — Script de instalación automática para Kali Linux
+# GhostTrack — Script de instalación automática para Kali Linux
 # Uso: chmod +x install.sh && sudo bash install.sh
 # ═══════════════════════════════════════════════════════════════════
 
@@ -12,7 +12,7 @@ NC='\033[0m'
 
 echo -e "${BLUE}"
 echo "╔═══════════════════════════════════════════════════════╗"
-echo "║         GhostTrack v2.0 — Instalador Automático       ║"
+echo "║         GhostTrack — Instalador Automático       ║"
 echo "╚═══════════════════════════════════════════════════════╝"
 echo -e "${NC}"
 
