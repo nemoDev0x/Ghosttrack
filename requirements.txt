@@ -1,44 +1,45 @@
 # ═══════════════════════════════════════════════════════════════════
-# ARCHIVE: requirements.txt
+# GhostTrack v2.0 — requirements.txt
+# Compatible con Python 3.9–3.13 en Kali Linux y Windows
+#
+# INSTALACIÓN RECOMENDADA (Kali Linux):
+#   chmod +x install.sh && sudo bash install.sh
+#
+# INSTALACIÓN MANUAL:
+#   python3 -m venv ghosttrack_env
+#   source ghosttrack_env/bin/activate
+#   pip install -r requirements.txt
 # ═══════════════════════════════════════════════════════════════════
 
-# Core Dependencies
-requests==2.31.0
-beautifulsoup4==4.12.2
-lxml==4.9.3
+# ── HTTP y parsing web ─────────────────────────────────────────────
+requests>=2.31.0
+beautifulsoup4>=4.12.2
+lxml>=5.1.0
 
-# Networking & DNS
-dnspython==2.4.2
-scapy==2.5.0
+# ── DNS y red ──────────────────────────────────────────────────────
+dnspython>=2.4.2
+scapy>=2.5.0
 
-# Security & Cryptography
-cryptography==41.0.5
-pyOpenSSL==23.3.0
+# ── Criptografía y SSL ─────────────────────────────────────────────
+cryptography>=42.0.0
+pyOpenSSL>=24.0.0
+pycryptodome>=3.20.0
 
-# Image Processing & Metadata
-Pillow==10.1.0
-PyPDF2==3.0.1
+# ── Imágenes y PDF ─────────────────────────────────────────────────
+Pillow>=10.2.0
+pypdf>=4.0.0
 
-# Database & Storage
-sqlalchemy==2.0.23
+# ── Templates y CLI ────────────────────────────────────────────────
+Jinja2>=3.1.2
+colorama>=0.4.6
+tqdm>=4.66.1
+python-dotenv>=1.0.0
+click>=8.1.7
 
-# Reporting
-Jinja2==3.1.2
-markdown==3.5.1
+# ── Red Team (Active Directory) ────────────────────────────────────
+impacket>=0.12.0
+ldap3>=2.9.1
 
-# CLI & Colors
-colorama==0.4.6
-tqdm==4.66.1
-
-# Utilities
-python-dotenv==1.0.0
-click==8.1.7
-
-# Optional - Red Team 
-impacket==0.11.0
-ldap3==2.9.1
-pycryptodome==3.19.0
-
-# Testing
-pytest==7.4.3
-pytest-cov==4.1.0
+# ── Testing ────────────────────────────────────────────────────────
+pytest>=7.4.3
+pytest-cov>=4.1.0

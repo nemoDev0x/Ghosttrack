@@ -2,7 +2,7 @@
 """
 ═══════════════════════════════════════════════════════════════════
 
-   ********  **      **   *******    ******** ********** ********** *******       **       ******  **   **        ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+   ********  **      **   *******    ******** ********** ********** *******       **       ******  **   **        ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⡾⠿⢿⡀⠀⠀⠀⠀⣠⣶⣿⣷
 ⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⣦⣴⣿⡋⠀⠀⠈⢳⡄⠀⢠⣾⣿⠁⠈⣿⡆
 ⠀⠀⠀⠀⠀⠀⠀⣰⣿⣿⠿⠛⠉⠉⠁⠀⠀⠀⠹⡄⣿⣿⣿⠀⠀⢹⡇
 ⠀⠀⠀⠀⠀⣠⣾⡿⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⣰⣏⢻⣿⣿⡆⠀⠸⣿
@@ -299,12 +299,12 @@ class GhostTrack:
             
             # RED TEAM MÓDULO 7: Lateral Movement
             print(f"{Colors.YELLOW}[*] RedTeam 7/20: Lateral Movement{Colors.RESET}")
-            lateral = LateralMovementDetector(target, domain)
-            results['modules']['lateral'] = lateral.find_paths()
+            lateral = LateralMovementDetector(target)
+            results['modules']['lateral'] = lateral.run()
             
             # RED TEAM MÓDULO 8: Credential Dumping
             print(f"{Colors.YELLOW}[*] RedTeam 8/20: Credential Dumping{Colors.RESET}")
-            dumper = CredentialDumper()
+            dumper = CredentialDumper(target)
             results['modules']['credentials'] = dumper.dump_all()
             
             # RED TEAM MÓDULO 9: Token Manipulation
