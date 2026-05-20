@@ -78,8 +78,8 @@ from .complete_redteam import (
     run_full_redteam_assessment
 )
 
-__version__ = '2.0.0'
-__author__ = 'Tu Nombre'
+__version__ = '1.0'
+__author__ = 'nemoDev0x'
 
 __all__ = [
     # Enumeración (3)
