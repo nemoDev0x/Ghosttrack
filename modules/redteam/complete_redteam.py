@@ -8,7 +8,7 @@ Requisitos para funcionalidad completa en Kali Linux:
   pip install impacket ldap3 pycryptodome requests
   apt-get install -y aircrack-ng bluez nmap
 
-Autor: Izán Jiménez Nuñez
+Autor: nemoDev0x
 ═══════════════════════════════════════════════════════════════════
 """
 
