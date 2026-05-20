@@ -2,7 +2,7 @@
 """
 Script Personalizado para GhostTrack
 Descripción: Template básico para crear scripts personalizados
-Autor: Tu Nombre
+Autor: nemoDev0x
 Fecha: 2026
 """
 
